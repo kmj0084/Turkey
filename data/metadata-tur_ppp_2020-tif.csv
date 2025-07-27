@@ -1,0 +1,14 @@
+Field,Label,Value
+created,Created,2020-06-29T09:02:24.717163
+description,Description,"The spatial distribution of population in 2020, Turkey"
+format,File Format,GeoTIFF
+download_url,Download URL,https://data.worldpop.org/GIS/Population/Global_2000_2020/2020/TUR/tur_ppp_2020.tif
+id,Resource ID,f2ef8ca9-acb8-42e4-afb8-f2bf23a2f83a
+last_modified,Updated,2020-06-29T09:02:24.675021
+metadata_modified,Metadata Updated,2021-09-19T23:53:52.036194
+microdata,Microdata,False
+dataset_id,Dataset ID,12c6ed2c-5e88-4fcd-9712-e30c8c1de2ee
+resource_type,Resource Type,api
+name,Resource Name,tur_ppp_2020.tif
+mimetype,MIME Type,
+size,Size,
